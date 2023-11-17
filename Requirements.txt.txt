@@ -1,0 +1,1 @@
+Pour utiliser le dashboard il faudra installer Power BI et MySQL.
